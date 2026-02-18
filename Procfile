@@ -1,0 +1,1 @@
+worker: python bot-7games.py
